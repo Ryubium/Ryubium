@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ryubium
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on just about anything! Specifically audio processing software.
 - 📫 How to reach me ryanjb7301@gmail.com
 
 <!---
